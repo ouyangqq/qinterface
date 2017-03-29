@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/denglu/a.png</file>
+    </qresource>
+</RCC>
