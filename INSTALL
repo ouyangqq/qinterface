@@ -1,0 +1,4 @@
+1 install qt-opensource-everywhere 4.7 or higher
+2 install qtcreator 2.4 or higher
+3 open ther qinterface.pro with qtcreator
+4 In the qtcreaor, tools->options->building and runing, you should set building kit 
