@@ -2,3 +2,5 @@
 2 install qtcreator 2.4 or higher
 3 open ther qinterface.pro with qtcreator
 4 In the qtcreaor, tools->options->building and runing, you should set building kit 
+
+note: we suggest you run the project on qt4.7 qt4.8. If you want to In qt5.0 or higher edition, header file of including should be changed correspondly
